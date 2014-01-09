@@ -1,5 +1,6 @@
 h1 {
-    font-size: medium;
+    font-size: 1.8em;
+    color: #999;
 }
 body {
     background-color: #012;
@@ -31,7 +32,7 @@ footer {
     display: inline;
     font-weight: 100;
 }
-#name {
+.name {
     color: #bbb;
     font-family: Open Sans, helvetica, sans-serif;
     font-size: xx-large;
@@ -40,14 +41,31 @@ footer {
     margin: 20px;
     margin-top: 40px;
 }
-#mainContent {
+.bio {
     /*background-color: #F8F8F8;*/
     margin: 40px 15% 20px 15%;
     padding: 20px 20px;
     border-radius: 15px;
     /*box-shadow: 0px 2px 2px #BBB;*/
 }
-#socialMenu {
+.experience {
+    margin: 40px 15% 20px 15%;
+}
+.employer {
+    display: block;
+    font-size: 1.2em;
+    font-weight: 700;
+}
+.jobtitle {
+    display: block;
+    font-size: medium;
+    font-weight: 400;    
+}
+.date {
+    display: block;
+    font-style: italic;
+}
+.socialMenu {
     display: inline-block;
 }
 #connectionMenu {
