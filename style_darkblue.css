@@ -1,10 +1,10 @@
 h1 {
     font-size: 1.8em;
-    color: #999;
+    color: #ccc;
 }
 body {
     background-color: #012;
-    color: #ccc;
+    color: #eee;
     font-family: open sans, verdana, arial, sans-serif;
     font-size: 17px;
     font-weight: 100;
@@ -12,7 +12,7 @@ body {
     margin-top: 20px;
 }
 a {
-    color: #888;
+    color: #999;
     text-decoration: none;
     transition: color .25s ease-in-out;
     -webkit-transition: color .25s ease-in-out;
@@ -33,7 +33,7 @@ footer {
     font-weight: 100;
 }
 .name {
-    color: #bbb;
+    color: #eee;
     font-family: Open Sans, helvetica, sans-serif;
     font-size: xx-large;
     font-size: 49px;
@@ -81,7 +81,7 @@ footer {
     padding: 10px 14px;
 }
 #connectionMenu i {
-    color: #999;
+    color: #aaa;
     font-size: 2.9em;
     transition: color .2s ease-in-out;
     -webkit-transition: color .2s ease-in-out;
