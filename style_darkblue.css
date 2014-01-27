@@ -1,6 +1,9 @@
 h1 {
-    font-size: 1.8em;
+    font-family: roboto slab;
+    font-size: 2.4em;
+    font-weight: 100;
     color: #ccc;
+    margin-bottom: 55px;
 }
 body {
     background-color: #012;
@@ -43,23 +46,24 @@ footer {
 }
 .bio {
     /*background-color: #F8F8F8;*/
-    margin: 30px 15% 20px 15%;
+    margin: 40px 15% 60px 15%;
     padding: 20px 20px;
     border-radius: 15px;
     /*box-shadow: 0px 2px 2px #BBB;*/
 }
 .experience {
-    margin: 40px 15% 20px 15%;
+    font-family: roboto slab;
+    margin: 80px 15% 20px 15%;
 }
 .experience p {
-    margin: 40px 15% 20px 15%;
+    margin: 50px 15% 20px 15%;
 }
 .employer {
     display: block;
-    font-size: 1.2em;
-    font-weight: 700;
+    font-size: 1.5em;
+    font-weight: 100;
 }
-.jobtitle {
+.jobTitle {
     display: block;
     font-size: medium;
     font-weight: 400;    
@@ -67,6 +71,10 @@ footer {
 .date {
     display: block;
     font-style: italic;
+}
+.connectHeading {
+    margin-top: 70px;
+    margin-bottom: 20px;
 }
 .socialMenu {
     display: inline-block;
