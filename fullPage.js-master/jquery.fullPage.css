@@ -135,7 +135,7 @@ html, body {
 }
 #fullPage-nav li .active span,
 .fullPage-slidesNav .active span {
-    background: #333;
+    background: #444;
 }
 #fullPage-nav span,
 .fullPage-slidesNav span {
@@ -143,7 +143,7 @@ html, body {
     left: 2px;
     width: 8px;
     height: 8px;
-    border: 1px solid #000;
+    border: 1px solid #444;
     background: rgba(0, 0, 0, 0);
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
