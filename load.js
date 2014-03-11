@@ -3,6 +3,7 @@ $(document).ready(function () {
         resize: false,
 		slidesColor: ['#012', '#023', '#134'],
         anchors: ['firstPage', 'secondPage', 'thirdPage'],
+        loopHorizontal: false,
         css3: true,
         navigation: true, 
         navigationTooltips: ['bio', 'exp', 'contact'],

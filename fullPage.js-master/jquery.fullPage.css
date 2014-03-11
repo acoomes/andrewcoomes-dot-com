@@ -63,15 +63,15 @@ html, body {
     margin-top: -38px;
 }
 .controlArrow.prev {
-    left: 15px;
+    left: 15%;
     width: 0;
     border-width: 38.5px 34px 38.5px 0;
-    border-color: transparent #fff transparent transparent;
+    border-color: transparent #504444 transparent transparent;
 }
 .controlArrow.next {
-    right: 15px;
+    right: 15%;
     border-width: 38.5px 0 38.5px 34px;
-    border-color: transparent transparent transparent #fff;
+    border-color: transparent transparent transparent #504444;
 }
 .scrollable {
     overflow: scroll;
@@ -135,7 +135,7 @@ html, body {
 }
 #fullPage-nav li .active span,
 .fullPage-slidesNav .active span {
-    background: #444;
+    background: #544;
 }
 #fullPage-nav span,
 .fullPage-slidesNav span {
@@ -143,7 +143,7 @@ html, body {
     left: 2px;
     width: 8px;
     height: 8px;
-    border: 1px solid #444;
+    border: 1px solid #544;
     background: rgba(0, 0, 0, 0);
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
