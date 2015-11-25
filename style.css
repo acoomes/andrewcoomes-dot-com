@@ -52,13 +52,13 @@ footer {
 }
 .employer {
     display: block;
-    font-size: 1.2em;
+    font-size: 1.8em;
     font-weight: 700;
 }
 .jobtitle {
     display: block;
     font-size: medium;
-    font-weight: 400;    
+    font-weight: 400;
 }
 .date {
     display: block;
