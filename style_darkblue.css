@@ -1,7 +1,7 @@
 h1 {
     color: #ccc;
     font-family: roboto slab;
-    font-size: 2.4em;
+    font-size: 2.6em;
     font-weight: 100;
     margin-bottom: 55px;
 }
@@ -97,7 +97,7 @@ footer {
 
 .employer {
     display: block;
-    font-size: 1.8em;
+    font-size: 2em;
     font-weight: 100;
 }
 

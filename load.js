@@ -6,7 +6,7 @@ $(document).ready(function () {
         loopHorizontal: false,
         css3: true,
         navigation: true, 
-        navigationTooltips: ['bio', 'exp', 'contact'],
+        navigationTooltips: ['bio', 'experience', 'contact'],
     });
     $(".next-section-button").click(function() {
         $.fn.fullpage.moveSectionDown();
