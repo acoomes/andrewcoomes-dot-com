@@ -66,12 +66,12 @@ html, body {
     left: 15%;
     width: 0;
     border-width: 38.5px 34px 38.5px 0;
-    border-color: transparent #504444 transparent transparent;
+    border-color: transparent #ccc transparent transparent;
 }
 .controlArrow.next {
     right: 15%;
     border-width: 38.5px 0 38.5px 34px;
-    border-color: transparent transparent transparent #504444;
+    border-color: transparent transparent transparent #ccc;
 }
 .scrollable {
     overflow: scroll;
@@ -135,7 +135,7 @@ html, body {
 }
 #fullPage-nav li .active span,
 .fullPage-slidesNav .active span {
-    background: #544;
+    background: #eee;
 }
 #fullPage-nav span,
 .fullPage-slidesNav span {
@@ -143,7 +143,7 @@ html, body {
     left: 2px;
     width: 8px;
     height: 8px;
-    border: 1px solid #544;
+    border: 1px solid #eee;
     background: rgba(0, 0, 0, 0);
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -153,7 +153,7 @@ html, body {
 }
 .fullPage-tooltip {
     position: absolute;
-    color: #fff;
+    color: #eee;
     font-size: 14px;
     font-family: arial, helvetica, sans-serif;
     top: -2px;
