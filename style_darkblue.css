@@ -7,7 +7,9 @@ h1 {
 }
 
 body {
+    background: url(img/backgrounds/portlandpearl.jpg) center;
     background-color: #012;
+    background-size: 1920px 1080px;
     color: #eee;
     font-family: open sans, verdana, arial, sans-serif;
     font-size: 1.1em;
