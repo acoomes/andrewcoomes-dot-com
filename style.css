@@ -3,3 +3,12 @@ html, body {
     background: url("img/backgrounds/portlandpearl.jpg") center no-repeat fixed;
     background-size: cover;
 }
+
+#shade {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background: #555;
+    background-size: 100%;
+    opacity: 0.8;
+}
