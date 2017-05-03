@@ -2,13 +2,28 @@ html, body {
     margin: 0;
     background: url("img/backgrounds/portlandpearl.jpg") center no-repeat fixed;
     background-size: cover;
+    color: #FAFAFA;
 }
 
 #shade {
     position: fixed;
     height: 100%;
     width: 100%;
-    background: #555;
+    background: rgba(85,85,85,0.8);
     background-size: 100%;
-    opacity: 0.8;
+}
+
+#wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+#main-container {
+    min-height: 100px;
+    width: 860px;
+    background: rgba(24,40,53,0.8);
+    padding: 50px;
+    border-radius: 9px;
 }
