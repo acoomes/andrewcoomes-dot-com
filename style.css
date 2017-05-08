@@ -45,6 +45,23 @@ p {
     display: flex;
 }
 
+#github-icon {
+    background: rgba(40,40,40,1);
+}
+
+#codepen-icon {
+    background: rgba(40,40,40,1);
+}
+
+#stack-icon {
+    background: rgba(40,40,40,1);
+}
+
+#linkedin-icon {
+    background: rgba(0,132,191,1);
+}
+
+
 .icon {
     display: flex;
     align-items: center;
@@ -54,4 +71,9 @@ p {
     background: rgba(50,100,150,1);
     border-radius: 30px;
     font-size: 2em;
+}
+
+.icon a {
+    color: #FFF;
+    text-decoration: none;
 }
