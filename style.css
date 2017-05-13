@@ -24,10 +24,10 @@ h2 {
 }
 
 #shade {
+    position: fixed;
     display: flex;
     align-items: center;
     justify-content: center;
-    position: fixed;
     height: 100%;
     width: 100%;
     background: rgba(70,65,75,0.85);
