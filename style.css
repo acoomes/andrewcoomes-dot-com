@@ -15,6 +15,20 @@ h2 {
     font-weight: 100;
 }
 
+button {
+    padding: 10px 20px;
+    border: 2px solid #FAFAFA;
+    border-radius: 8px;
+    background: rgba(70,65,75,0);
+    color: #FAFAFA;
+}
+
+button:hover {
+    border: 2px solid #8f8;
+    color: #8f8;
+    cursor: pointer;
+}
+
 #bg {
     position: fixed;
     height: 100%;
@@ -65,4 +79,8 @@ h2 {
 .icon a:hover {
     color: #8f8;
     transition-duration: .33s;
+}
+
+#readmore {
+    margin-top: 30px;
 }
